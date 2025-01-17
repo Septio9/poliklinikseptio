@@ -16,4 +16,4 @@ INFO
 
 PHP 7.x atau lebih MySQL Apache Server Langkah Instalasi:
 
-Clone : https://github.com/NicoDmwn/Klinik_Bengkod.git copas ke htdocs jalankan XAMPP
+Clone : (https://github.com/Septio9/poliklinikseptio.git) copas ke htdocs jalankan XAMPP
