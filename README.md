@@ -7,7 +7,7 @@ password    : admin
 # Login dokter
 password adalah username, password dimasukan nama dokter nya
 
-#Fitur
+# Fitur
 Login admin,pasien,dokter Mengelola dokter,pasien mengelola poli mengelola obat melakukan pendaftaran pasien login sbg pasien mendaftar ke poli login sbg dokter input jadwal periksa memberikan catatan obat menampilkan riwayat pasien Admin (username : admin, pass : admin)
 
 Frontend: HTML, CSS, Bootstrap Backend: PHP Database: MySQL Web Server: Apache XAMPP Version Control: Git
